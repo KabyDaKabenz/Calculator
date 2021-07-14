@@ -7,7 +7,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Poppins', sans-serif;
-    background-color: #E0FFFF;
+    background-color: #dadada;
 }
 
 h1 {
@@ -52,6 +52,9 @@ button:hover {
     align-items: flex-end;
 }
 
+.all-clear, .delete {
+    background-color: #969090;
+}
 
 
 .span-two {
